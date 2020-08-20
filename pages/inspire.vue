@@ -5,7 +5,7 @@
       <v-card>
         <v-card-title class="headline">ブログ</v-card-title>
         <v-card-text>
-          <p>すこしずつ更新していく予定。毎日更新していく予定。予定予定予定予定予定予定</p>
+          <p>すこしずつ更新していく予定。毎日更新していく予定。予定予定</p>
           <div class="text-xs-right">
             <em>
               <small>もとき</small>
