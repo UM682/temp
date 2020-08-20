@@ -5,11 +5,7 @@
       <v-card>
         <v-card-title class="headline">motoki web</v-card-title>
         <v-card-text>
-          <p>webをはじめたよ</p>
-          <p>webをはじめたよ</p>
-          <p>webをはじめたよ</p>
-          <p>webをはじめたよ</p>
-          <p>webをはじめたよ</p>
+          <p>webをはじめたよ。webをはじめたよ。webをはじめたよ。webをはじめたよ。webをはじめたよ。webをはじめたよ。webをはじめたよ。webをはじめたよ。</p>
           <div class="text-xs-right">
             <em>
               <small>もとき</small>

@@ -33,7 +33,7 @@
 export default {
   data() {
     return {
-      clipped: false,
+      clipped: true,
       drawer: false,
       fixed: false,
       items: [
@@ -49,7 +49,7 @@ export default {
         },
       ],
       miniVariant: false,
-      right: true,
+      right: false,
       rightDrawer: false,
       title: "もとき",
     };
